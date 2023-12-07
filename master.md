@@ -1,3 +1,3 @@
 branch master lan 3 + branch main lan 2 
 + merge master to main  + tiep tuc thuc hien
-duoc them tu nhanh master_2
+duoc them tu nhanh master_2 lan 2
